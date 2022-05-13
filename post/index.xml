@@ -5,12 +5,42 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 01:38:32 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 22:23:48 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Markdown Lang</title>
+      <link>https://example.com/post/markdown-lang/markdown-lang/</link>
+      <pubDate>Fri, 13 May 2022 22:23:48 +0300</pubDate>
+      <guid>https://example.com/post/markdown-lang/markdown-lang/</guid>
+      <description>&lt;h2 id=&#34;язык-разметки-markdown&#34;&gt;Язык разметки Markdown&lt;/h2&gt;
+&lt;p&gt;\ Markdown - язык разметки текстов. Такие тексты легко писать и читать. Их можно без труда сконвертировать в HTML. Большинство программистов предпочитают Markdown для написания документации, описания своих проектов, написания блогов и так далее.&lt;/p&gt;
+&lt;h2 id=&#34;что-это-значит&#34;&gt;Что это значит?&lt;/h2&gt;
+&lt;p&gt;\ &amp;ldquo;Язык разметки&amp;rdquo; &amp;ndash; это просто набор соглашений, правил.&lt;br&gt;
+\ Допустим, что вы общаетесь с другом по СМС. В них нельзя сделать текст жирным или наклонным. Вы договариваетесь с другом: если я пишу * что-то * вот так между звездочками, то считай, что это наклонный текст. А если я пишу ** что-то ** между двумя звездочками, то считай, что это жирный текст. Вы придумали правила.&lt;br&gt;
+\Markdown &amp;ndash; это набор подобных правил.&lt;/p&gt;
+&lt;h2 id=&#34;зачем-это-нужно&#34;&gt;Зачем это нужно?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Для добавления разметки туда, где невозможна реальная разметка. Например, в простом текстовом файле или в тех же СМС, где невозможно выделение жирным, создание заголовков, выделение цитат и пр.&lt;/li&gt;
+&lt;li&gt;Для более удобного написания текстов для последующей конвертации в HTML или другие форматы.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last Week2</title>
+      <link>https://example.com/post/last-week2/last-week2/</link>
+      <pubDate>Fri, 13 May 2022 22:21:52 +0300</pubDate>
+      <guid>https://example.com/post/last-week2/last-week2/</guid>
+      <description>&lt;h2 id=&#34;вторая-прошедшая-неделя&#34;&gt;Вторая прошедшая неделя:&lt;/h2&gt;
+&lt;p&gt;Даты прошлой недели: 02 мая (понедельник) - 08 мая (воскресенье)&lt;br&gt;
+Прошлая неделя являлась учебной неделей. На прошлой неделе мною было выполнены 2 лабораторные работы и 2 этап реализации индивидуального проекта.\&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Управление версиями. Git.</title>
