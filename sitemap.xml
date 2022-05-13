@@ -10,9 +10,9 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/markdown-lang/markdown-lang/</loc><lastmod>2022-05-13T22:23:48+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://example.com/post/</loc><lastmod>2022-05-13T22:23:48+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/markdown-lang/markdown-lang/</loc><lastmod>2022-05-13T22:23:48+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/last-week2/last-week2/</loc><lastmod>2022-05-13T22:21:52+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
